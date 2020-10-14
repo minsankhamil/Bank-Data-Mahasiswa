@@ -1,7 +1,7 @@
 # Bank-Data-Mahasiswa
 
 ## Members
-- Dwi Aryanto Dio Wicaksono(Team Leader) - 3145161971
+- Dwi Aryanto Dio Wicaksono (Team Leader) - 3145161971
 - Muhammad Insan Khamil - 3145161580
 - Rezky Fananda Putra - 3145162790
 
