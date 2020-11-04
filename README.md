@@ -1,4 +1,4 @@
-# Bank-Data-Mahasiswa
+# Bank-Data-Kuliah
 
 ## Members
 - Dwi Aryanto Dio Wicaksono (Team Leader) - 3145161971
